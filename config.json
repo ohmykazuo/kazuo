@@ -1,20 +1,23 @@
 {
-    "ownerNumber": "6285876010830@s.whatsapp.net", 
-    "ownerName": "Kazuo Valkyrie", 
-    "botName": "KAZUO BOT",
-    "footer": "© BOTMD | 2022", 
-    "sessionName": "session", 
-    "pathimg": "./media/logo.jpg", 
-    "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/EuXHoAVtSjL4BcRHahRpcx",
-    "TikTok": "tiktok.com/@siapasatrya",
-    "igCookie": "csrftoken=Yj80cFn0zMn6svtMdvKTBcMzMwWPsQzx; sessionid=53767158422%3A4hXJOZ2NBfcF2f%3A10; ds_user_id=53767158422;",
- 
-    "limitCount": 100,
-    "limitGame": 35,
+    "ownerNumber": ["625876010830@s.whatsapp.net","6285876010830@s.whatsapp.net"],
+    "ownerName": "Kazuo Chan",
+    "instagram" : "tiktok.com/@siapasatrya",
+    "botName": "Kazuo-Bot",
+    "footer": "api.kazuo.xyz",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
     "gamewaktu": 90,
-    "sticker": {
-        "packname": "© Kazuo",
-        "author": "Kazuo Bot"
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
     }
 }
